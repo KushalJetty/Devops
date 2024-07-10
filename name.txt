@@ -1,1 +1,1 @@
-this is a file.
+THis is a file and this contains info., of the project.
